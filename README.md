@@ -13,7 +13,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-![alt text](<../Screenshot 2025-03-17 112856.png>)
+
+![Screenshot 2025-03-17 112856](https://github.com/user-attachments/assets/bc5d3d4e-be3b-48f6-808f-fdc2fa1144d4)
 
 
 ## DESIGN STEPS
@@ -87,27 +88,30 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-c:\Users\admin\OneDrive\Desktop\exp 2 dl\NN_customer_classification\Screenshot 2025-03-17 113110.png
+![Screenshot 2025-03-17 113110](https://github.com/user-attachments/assets/e6569cb9-6f4d-47cb-b1d2-4e88ee9de655)
+
 
 ## OUTPUT
 
 ##TESTCASE
+![Screenshot 2025-03-17 113718](https://github.com/user-attachments/assets/59be01d7-ed7a-491f-b17f-4ee750863bc7)
 
-NN_customer_classification/Screenshot 2025-03-17 113718.png
 
 ### Confusion Matrix
+![Screenshot 2025-03-17 113723](https://github.com/user-attachments/assets/16cb2ebf-bc43-41d7-89f8-3d889d742d04)
 
-NN_customer_classification/Screenshot 2025-03-17 114338.png
 
 
 ### Classification Report
 
-c:\Users\admin\OneDrive\Desktop\exp 2 dl\NN_customer_classification\Screenshot 2025-03-17 114350.png
+![Screenshot 2025-03-17 114350](https://github.com/user-attachments/assets/4580ede2-3f5c-4a46-9c5c-802ed61ce9bb)
+
 
 
 ### New Sample Data Prediction
 
-NN_customer_classification/Screenshot 2025-03-17 114548.png
+![Screenshot 2025-03-17 114548](https://github.com/user-attachments/assets/784ccc80-6138-4d73-8044-26e5b07ccb44)
+
 
 ## RESULT
 Thus a neural network classification model for the given dataset is executed successfully.
