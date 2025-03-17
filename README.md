@@ -69,6 +69,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 ```
 # Training Loop
+```
 def train_model(model, train_loader, criterion, optimizer, epochs):
     model.train()
     for epoch in range(epochs):
@@ -88,13 +89,13 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-
+![Screenshot 2025-03-17 113110](https://github.com/user-attachments/assets/876b68a3-3a95-4f72-84db-a2f05312f01f)
 
 
 ## OUTPUT
-![Screenshot 2025-03-17 113110](https://github.com/user-attachments/assets/876b68a3-3a95-4f72-84db-a2f05312f01f)
 
-##TESTCASE
+## TESTCASE
+
 ![Screenshot 2025-03-17 113718](https://github.com/user-attachments/assets/59be01d7-ed7a-491f-b17f-4ee750863bc7)
 
 
