@@ -51,7 +51,8 @@ class PeopleClassifier(nn.Module):
         super(PeopleClassifier, self)._init_()
         self.fc1 = nn.Linear(input_size, 32)
         self.fc2 = nn.Linear(32, 16)
-        self.fc3 = nn.Linear(16, 4)
+        self.fc3 = nn.Linear(16, 8)
+        self.fc4 = nn.Linear(8, 4)
 
     def forward(self, x):
         x = F.relu(self.fc1(x))
