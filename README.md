@@ -99,23 +99,28 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## TESTCASE
 
-![Screenshot 2025-03-17 113718](https://github.com/user-attachments/assets/59be01d7-ed7a-491f-b17f-4ee750863bc7)
+![Screenshot 2025-04-08 173117](https://github.com/user-attachments/assets/ad1bc92c-26d7-4945-97e5-46d05df3272e)
 
 
 ### Confusion Matrix
-![Screenshot 2025-03-17 113723](https://github.com/user-attachments/assets/16cb2ebf-bc43-41d7-89f8-3d889d742d04)
+
+![Screenshot 2025-04-08 173109](https://github.com/user-attachments/assets/1c828842-3a00-4095-9b42-257fcf5ccb12)
+
+![Screenshot 2025-04-08 173057](https://github.com/user-attachments/assets/fbfec494-1deb-4c69-9021-7b8a5d35f73f)
 
 
 
 ### Classification Report
 
-![Screenshot 2025-03-17 114350](https://github.com/user-attachments/assets/4580ede2-3f5c-4a46-9c5c-802ed61ce9bb)
+
+![Screenshot 2025-04-08 173036](https://github.com/user-attachments/assets/44087492-c6bc-4b17-8f8a-dfaf79ec4d32)
 
 
 
 ### New Sample Data Prediction
 
-![Screenshot 2025-03-17 114548](https://github.com/user-attachments/assets/784ccc80-6138-4d73-8044-26e5b07ccb44)
+![Screenshot 2025-04-08 173019](https://github.com/user-attachments/assets/b2e600eb-42c6-419a-87f8-7a1d261a4859)
+
 
 
 ## RESULT
