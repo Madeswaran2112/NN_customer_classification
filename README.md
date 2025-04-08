@@ -73,14 +73,15 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 # Training Loop
 ```
 def train_model(model, train_loader, criterion, optimizer, epochs):
+  for epoch in range(epochs):
     model.train()
-    for epoch in range(epochs):
-        for inputs, labels in train_loader:
-            optimizer.zero_grad()
-            outputs = model(inputs)
-            loss = criterion(outputs, labels)
-            loss.backward()
-            optimizer.step()
+    for X_batch,y_batch in train_loader:
+      optimizer.zero_grad()
+      outputs=model(inputs)
+      loss=criterion(outputs,labes)
+      loss.backward()
+      optimizer.step()
+
 
     if (epoch + 1) % 10 == 0:
         print(f'Epoch [{epoch+1}/{epochs}], Loss: {loss.item():.4f}')
