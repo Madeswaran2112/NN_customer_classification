@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![Screenshot 2025-03-24 103025](https://github.com/user-attachments/assets/8f48c5c3-c8a5-468f-9352-da3fe6bbd7e7)
+![Screenshot 2025-04-21 100502](https://github.com/user-attachments/assets/6ba5d3ce-a16f-4988-971d-eb5e1442368d)
+
 
 
 
