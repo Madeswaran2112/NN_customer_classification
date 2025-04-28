@@ -98,6 +98,10 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 
 ## OUTPUT
+## Training Loss
+
+![image](https://github.com/user-attachments/assets/fcfdc20a-aa13-4190-9e68-84831c1a3fe6)
+
 
 ## TESTCASE
 
